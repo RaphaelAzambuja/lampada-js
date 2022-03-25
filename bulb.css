@@ -1,0 +1,11 @@
+body{
+    background-color: black;}
+    
+#img1{
+    position: absolute; 
+    left: 45%;}
+#img2{
+    position: absolute; 
+    left: 46.5%; 
+    top: 50%; 
+    width: 5%;}
