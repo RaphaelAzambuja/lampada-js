@@ -1,1 +1,1 @@
-# lampada-js
+Lâmpada com interruptor.
